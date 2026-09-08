@@ -1,4 +1,4 @@
-# Programmable World Model
+<h1 align="center">Programmable World Model</h1>
 
 <p align="center"><a href="https://alayalab.ai/"><b>Alaya Lab</b></a></p>
 

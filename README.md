@@ -3,7 +3,7 @@
 <p align="center"><a href="https://alayalab.ai/"><b>Alaya Lab</b></a></p>
 
 <p align="center">
-  <a href="https://alaya-lab.github.io/ProgrammableWorldModel/"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
+  <a href="https://alaya-lab.github.io/pwm/"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
   <img src="https://img.shields.io/badge/Paper-Coming%20Soon-lightgrey">
   <img src="https://img.shields.io/badge/Code-Coming%20Soon-lightgrey">
 </p>
@@ -14,7 +14,7 @@ Video world models are powerful interactive renderers, but plausible observation
 
 ## 📰 News
 
-- **[2026-09-05]** [Project page](https://alaya-lab.github.io/ProgrammableWorldModel/) released.
+- **[2026-09-05]** [Project page](https://alaya-lab.github.io/pwm/) released.
 
 ## 🚀 Release Roadmap
 

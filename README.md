@@ -5,8 +5,8 @@
 
   <a href="https://alaya-lab.github.io/pwm/"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
   <a href="https://alaya-lab.github.io/pwm/paper/Programmable_World_Model.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red"></a>
-  [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)]([https://x.com/alayastd/status/2039903025096187937?s=61](https://x.com/alayastd/status/2097610481469190317))
-  [![Daily Paper](https://img.shields.io/badge/%F0%9F%A4%97-%20Daily%20Paper-yellow)]([https://huggingface.co/papers/2604.02329](https://huggingface.co/papers/2609.10540))
+  [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/alayastd/status/2097610481469190317)
+  [![Daily Paper](https://img.shields.io/badge/%F0%9F%A4%97-%20Daily%20Paper-yellow)](https://huggingface.co/papers/2609.10540)
 
 
 <p align="center">

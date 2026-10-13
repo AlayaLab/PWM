@@ -23,7 +23,7 @@ Video world models are powerful interactive renderers, but plausible observation
 
 ## 📰 News
 
-- **[2026-10-12]** We released [PROWBench](https://github.com/AlayaLab/PROWBench), a benchmark for evaluating whether video models render what programs specify.
+- **[2026-10-11]** We released [PROWBench](https://alaya-lab.github.io/PROWBench/), a benchmark for evaluating whether video models render what programs specify.
 - **[2026-09-05]** [Project page](https://alaya-lab.github.io/pwm/) released.
 
 ## 🚀 Release Roadmap
